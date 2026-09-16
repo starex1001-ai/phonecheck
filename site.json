@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "폰체크",
+  "brand": "PHONE CHECK",
+  "mark": "PC",
+  "worker": "phonecheck",
+  "url": "https://phonecheck.webnote-lab.workers.dev",
+  "description": "스마트폰 설정과 오류, 배터리와 저장공간을 살펴봅니다.",
+  "tagline": "내 스마트폰부터 확인하기",
+  "categories": [
+    {
+      "slug": "battery",
+      "name": "배터리",
+      "description": "배터리 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "storage",
+      "name": "저장공간",
+      "description": "저장공간 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "notifications",
+      "name": "알림",
+      "description": "알림 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "calls",
+      "name": "통화",
+      "description": "통화 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "mobile-data",
+      "name": "데이터",
+      "description": "데이터 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "charging",
+      "name": "충전",
+      "description": "충전 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "overheating",
+      "name": "발열",
+      "description": "발열 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "backup-reset",
+      "name": "백업·초기화",
+      "description": "백업·초기화 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "camera",
+      "name": "사진·카메라",
+      "description": "사진·카메라 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "phone-transfer",
+      "name": "기기변경",
+      "description": "기기변경 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/phonecheck/issues"
+}
